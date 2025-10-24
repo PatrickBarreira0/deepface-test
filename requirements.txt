@@ -1,0 +1,6 @@
+opencv-python
+deepface
+mediapipe
+tensorflow==2.15.0
+
+#py -m pip install "tensorflow==2.15.*" mediapipe deepface opencv-python
